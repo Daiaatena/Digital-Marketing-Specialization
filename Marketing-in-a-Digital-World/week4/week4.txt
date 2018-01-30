@@ -1,0 +1,35 @@
+Task 1
+
+Share the information below for each of the five products (coffee, detergent, men’s T-shirt, battery, television):
+•	Brand name
+•	Store price
+•	Lowest local retail price
+•	Lowest Internet retail price
+CATEGORY	             BRAND	STORE	LOCAL	INTERNET
+COFFEE	JACOBS KRONUNG 	14.39 RON	14 RON	24.50 RON
+DETERGENT       	         PERSIL	42 RON	39 RON	45.99 RON
+T-SHIRT	       LACOSTE	269 RON	269 RON	249.99 RON
+BATTERY	       DURACELL	21.90 RON	21 RON	20.42 RON
+TELEVISION	       SAMSUNG	1.449,90 RON	1399,90 RON	1390,00 RON
+TOTAL	 	1797,19 RON	1742,90 RON	1730,00 RON
+
+Task 2
+Calculate the total amount of money you would have saved by buying these items via an Internet retailer (not counting the cost of shipping). What did you learn from this?
+Local prices were in general the cheapest except for the T-Shirt and Television prices which I found that they were cheaper online.The total amount of money spent was: 
+-Store :1797,19 RON,
+-Local :1742,90 RON
+-Internet: 1730,00 RON 
+If I would have bought all the products via an Internet retailer and not from the store I would have saved 67 RON.
+From this experience I learned that online prices are not always cheaper than offline and if you add the shipping cost it will result the same prices as in the local stores.
+
+Task 3
+Respond to the question: How did you feel about using this shopping tool? Will you use it in the future? How will you use it?
+For this exercise I used the Compari.ro app.The application provides us with up-to-date information about the selected products ,we can scan the bar codes and compare prices ,existing stocks,reviews and also store information such as direct dialing,route calculation,map listing.
+It was my first time using this shopping tool and I think it was a great experience. I will definitely use it in the future in order to  make smarter choices that will allow me to save money when I go shopping.
+
+Task 4
+Respond to the question: How could this tool be enhanced? What would make it even more valuable?
+In my opinion the app is easy to use ,but sometimes it crashes and I have to close it and then start again with the scanning so it needs to be fixed.Also I noticed that I couldn't find every product by scanning the bar code and some items were not even listed therefore I couldn't find any information about them.
+I think that it will be great if all the products and all the offers from both physical stores and online stores can be found through this app.
+Using location technology to notify users of offers from the selected store it would make it more valuable.
+
